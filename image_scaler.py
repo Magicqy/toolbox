@@ -1,4 +1,5 @@
-﻿from PIL import Image
+﻿#!/usr/bin/python
+from PIL import Image
 import os, sys, argparse
 
 # best down-sizing filter ANTIALIAS
